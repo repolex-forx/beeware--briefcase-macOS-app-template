@@ -1,0 +1,11 @@
+{
+  "org": "beeware",
+  "repo": "briefcase-macOS-app-template",
+  "versions": [
+    {
+      "commit": "140848a9556d83d2fa7e88138fe5b9dc59199582",
+      "tag": "",
+      "parsed_at": "2026-11-07T12:19:31.438106+00:00"
+    }
+  ]
+}
