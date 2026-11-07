@@ -1,0 +1,41 @@
+{
+  "manifest_version": "1.0",
+  "org": "beeware",
+  "repo": "briefcase-macOS-app-template",
+  "versions": [
+    {
+      "commit": "140848a9556d83d2fa7e88138fe5b9dc59199582",
+      "parsed_at": "2026-11-07T12:16:03.536248+00:00",
+      "filetree": "filetree/140848a9556d83d2fa7e88138fe5b9dc59199582.nq.gz",
+      "blobs": [
+        "blob/7aca58c9c4f7e5361baea2ee6dd18237a65568ae.nq.gz",
+        "blob/b834affdddcf5014398ca9c16aafe3ea7f2d0422.nq.gz",
+        "blob/13b092d8fb1ea141fd7aa39917867838bad82eb9.nq.gz",
+        "blob/857047968d454fecd7428381d3f3429c7055d934.nq.gz",
+        "blob/38ccc26131a793d53c11af78ec104b8d30174b88.nq.gz",
+        "blob/c2a7758c607dc29240bd4bf8e829b0494c0c9fdf.nq.gz",
+        "blob/80deff1c4b16b80fcaeb47d43dbe24e9cfa65cb3.nq.gz",
+        "blob/d7d79ec7ba0cf483c6c5f6313cedae532be9b36d.nq.gz",
+        "blob/be2bd37eb31d4d31057de9baa0960ade7a7677d3.nq.gz",
+        "blob/27b43d39d1c038a7bf7c8c5f26dd6b5f1b141417.nq.gz",
+        "blob/bef17c1e8932f6c57dac4a0a4cd672caedf0f11e.nq.gz",
+        "blob/88d66807a814d1f9d13b30576f9e9e45ab1d9c3a.nq.gz",
+        "blob/bc1f7a982ad7bcef54f5399b9a2fa3fd51ba77c8.nq.gz",
+        "blob/3b2f609a65fabb2a10691faa66339cde9787e979.nq.gz",
+        "blob/c4d88e8173e484996f9c1fe716bd0fb7e4c8a73b.nq.gz",
+        "blob/0e8ade5d6ce61b71dd04bd554b92a2e85442a1f0.nq.gz",
+        "blob/58e6d181749620ed71467588f20049b3421628ee.nq.gz",
+        "blob/e3805e4e4afb4955455f087f831d1f91285116e3.nq.gz",
+        "blob/fb058dba910dc15812cbc7d46a8a99488fd4da7c.nq.gz",
+        "blob/31dccfdf7adeeedc0f94b2183b5c709aacb22288.nq.gz",
+        "blob/15a8810c305e2d9eb22e233d8a99b02351f8bb69.nq.gz",
+        "blob/475161993f1f18a1e1a2950ab4072437749675b2.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
