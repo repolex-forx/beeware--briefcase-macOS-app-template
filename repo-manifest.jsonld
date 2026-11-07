@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/beeware/briefcase-macOS-app-template/commit/140848a9556d83d2fa7e88138fe5b9dc59199582",
       "git:hexsha": "140848a9556d83d2fa7e88138fe5b9dc59199582",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T12:19:31.437555+00:00"
     },
     {
       "@id": "https://repolex.ai/r/beeware/briefcase-macOS-app-template/commit/7ce3678fe03a542dd501c88c5c2ec1eca19327ab",
